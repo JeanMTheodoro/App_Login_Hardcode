@@ -10,13 +10,13 @@ por meio da ultilização Bundle.
 Prontuário: 3003213
 
 ## Configurações
-***
+
 
 * Android Studio versâo 4.0
 * Api 27 android _Oreo_
 
 ## Teste de validação
-***
+
 
 #### Validação com prontuário 112744 e senha 447211
 
