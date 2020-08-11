@@ -25,5 +25,5 @@ Prontuário Aluno: 3003213
 #### Validação com prontuário 112744 e senha 4472119
 * TextView Com a Menssage: "Erro no login"
 
-#### Validação com prontuário "vazio" e senha "vazio"
-* Os campos usuário e senha devem ser preenchidos!
+#### Validação com prontuário e senha "vazios" ou alguns dos campos vazios
+* Toast com a Menssage: Os campos usuário e senha devem ser preenchidos!
