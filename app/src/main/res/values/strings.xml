@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login_Hardcode</string>
+    <string name="number_user">Número do prontuário</string>
+    <string name="menssage_warning">Os campos usuário e senha devem ser preenchidos!</string>
+    <string name="text_tiltle_login_usuario">Usuário</string>
+    <string name="text_tiltle_login_password">Senha</string>
+    <string name="text_login_button">LOGIN</string>
+</resources>
