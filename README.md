@@ -4,10 +4,10 @@ _______________
 
 
 Desenvolvimento de uma tela de Login com *RelativeLyout*,
-onde a autenticação seria validada em uma segunda activity, que por sua vez, receberia os dados
+onde a autenticação será validada em uma segunda activity, que por sua vez, receberia os dados
 por meio da ultilização Bundle.
 
-Prontuário: 3003213
+Prontuário Aluno: 3003213
 
 ## Configurações
 
