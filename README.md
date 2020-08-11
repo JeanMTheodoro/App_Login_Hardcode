@@ -9,3 +9,8 @@ atravez do Bundle.
 
 Prontuário: 3003213
 
+##Configutações
+
+*_Android Studio_ versâo 4.0
+*_Api_ 27
+
