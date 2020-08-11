@@ -13,7 +13,8 @@ Prontuário Aluno: 3003213
 
 
 * Android Studio versâo 4.0
-* Api 27 android _Oreo_
+* Api 26 android _Oreo_
+* Linguagem _Java_
 
 ## Teste de validação
 
