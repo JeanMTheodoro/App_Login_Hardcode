@@ -9,8 +9,8 @@ atravez do Bundle.
 
 Prontuário: 3003213
 
-##Configutações
+## Configutações
 
-*_Android Studio_ versâo 4.0
-*_Api_ 27
+* Android Studio versâo 4.0
+* Api 27 android _Oreon_
 
