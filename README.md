@@ -19,7 +19,7 @@ Prontuário: 3003213
 * Campo usuario validar o prontuário: 112744
 * Campo senhar validar: 447211
 
-## Saidas de teste 
+## Teste de validação
 
 #### Validação com prontuário 112744 e senha 447211
 
