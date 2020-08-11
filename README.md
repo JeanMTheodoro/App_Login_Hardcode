@@ -14,3 +14,14 @@ Prontuário: 3003213
 * Android Studio versâo 4.0
 * Api 27 android _Oreo_
 
+##Teste
+
+* Campo usuario validar o prontuário: 112744
+* Campo senhar validar: 447211
+
+## Saidas de teste 
+
+### Validação com prontuário 112744 e senha 447211
+
+* Toast com a Menssage: "Bem Vindo 112744"
+* Toast Com a Menssage: "Erro no login"
